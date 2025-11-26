@@ -26,5 +26,5 @@ Software Engineering student specializing in full-stack web development with Spr
 </p>
 
 <p align="center">
-  <b>Thanks for visiting 👋</b>
+  <b>Thanks for visiting </b>
 </p>
