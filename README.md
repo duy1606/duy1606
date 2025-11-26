@@ -1,4 +1,4 @@
-👋 Hi, I'm a Software Engineering Student
+## 👋 About Me
 
 Software Engineering student specializing in full-stack web development with Spring Boot and React. Interested in building scalable backend systems and modern, user-friendly web applications. Always eager to learn new technologies and apply them in real-world projects.
 
