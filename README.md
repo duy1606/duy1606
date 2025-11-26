@@ -20,3 +20,11 @@ Software Engineering student specializing in full-stack web development with Spr
 ## 🔧 Version Control
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting 👋</b>
+</p>
