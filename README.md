@@ -1,5 +1,4 @@
 ## 👋 About Me
-
 Software Engineering student specializing in full-stack web development with Spring Boot and React. Interested in building scalable backend systems and modern, user-friendly web applications. Always eager to learn new technologies and apply them in real-world projects.
 
 ## 🌐 Languages
@@ -7,10 +6,12 @@ Software Engineering student specializing in full-stack web development with Spr
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## ⚙️ Framework / Library
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## 🗄️ Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -24,7 +25,6 @@ Software Engineering student specializing in full-stack web development with Spr
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </p>
-
 <p align="center">
   <b>Thanks for visiting </b>
 </p>
